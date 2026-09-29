@@ -1,4 +1,3 @@
-# Personal-Expense-Tracker
 # Personal Expense Tracker
 
 A simple Python-based Personal Expense Tracker that helps users record, view, and analyze their daily expenses.
